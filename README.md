@@ -1,7 +1,3 @@
-**Filename:** `README.md` for repository `marketing-attribution-models`
-
----
-
 # Marketing Attribution Models 📊
 **Advanced Multi-Touch Attribution & ROI Prediction Framework**
 
@@ -351,7 +347,7 @@ tableau.create_attribution_dashboard(
 ---
 
 ## 📄 License & Usage
-Enterprise Attribution License - See [LICENSE](LICENSE) for commercial usage terms
+Enterprise Attribution License - See [LICENSE](LICENSE.md) for commercial usage terms
 
 ## 🤝 Contributing
 Attribution model contributions welcome - See [CONTRIBUTING.md](CONTRIBUTING.md)
