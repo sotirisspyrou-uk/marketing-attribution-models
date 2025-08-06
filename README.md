@@ -324,7 +324,7 @@ tableau.create_attribution_dashboard(
 - **Competitive Advantage:** Attribution as a business differentiator
 - **Risk Management:** Understanding attribution model limitations
 
-## 📞 Attribution Consulting Services
+## 💼 Attribution Consulting Services
 
 ### Strategic Consulting
 - **Attribution Strategy Development:** Custom attribution frameworks for your business
@@ -342,7 +342,7 @@ tableau.create_attribution_dashboard(
 - 📧 **Attribution Consulting:** sotiris@verityai.co
 - 🌐 **Case Studies:** [verityai.co/attribution-success](https://verityai.co)
 - 💼 **LinkedIn:** [linkedin.com/in/sspyrou](https://linkedin.com/in/sspyrou)
-- 📱 **Direct:** +44 7920 514 588
+
 
 ---
 
